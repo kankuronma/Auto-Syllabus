@@ -1,0 +1,21 @@
+﻿Course Syllabus - COMP 2400
+
+Instructor: Dr. Smith
+Semester: Fall 2026
+
+Important Dates:
+
+1. Midterm Exam: October 15, 2026
+2. Assignment 1 Due: September 20, 2026
+3. Final Project Due: December 10, 2026
+4. Reading Week Break: November 15-19, 2026
+5. Quiz 1: September 5, 2026
+6. Final Exam: December 15, 2026
+7. Last Day to Withdraw: November 1, 2026
+
+Course Schedule:
+- Week 1: Introduction (Sept 1)
+- Week 2: Basic Concepts (Sept 8)
+- Week 3: Advanced Topics (Sept 15)
+
+Contact: office@university.edu

@@ -18,7 +18,6 @@ function extract(filename){
 
     // pdfParser.on("pdfParser_dataReady", (pdfData) => {
     //     fs.writeFile(
-    //         "C:/Feb20/Auto-Syllabus/ExtractText.json",
     //         //pdfParser.getAllFieldsTypes(),
     //         JSON.stringify(pdfData),
     //         (data) => console.log(data)

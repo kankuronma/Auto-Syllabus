@@ -16,9 +16,6 @@ async function main () {
         throw new error();
     }
 
-    // authenticated, ready to go
-
-    // test insert
     const response = await calendar.events.insert({
         calenderId: 'primary',
         requestBody: {
