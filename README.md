@@ -1,5 +1,6 @@
 # Auto-Syllabus
 **Live Demo:** http://47.93.196.111
+
 Auto-Syllabus is a Hackathon entry for .devHacks2026.
 
 ## What does this project do?
